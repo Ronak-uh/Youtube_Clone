@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mainContainer{
+    border: 2px solid green;
+}
+
+.navbarContainer{
+    border: 2px solid red;
+}
+
+.leftnavbarContainer{
+    border: 1px solid yellow;
+}
+
+.middlenavbarContainer{
+    border: 1px solid blue;
+}
+
+.rightnavbarContainer{
+    border:1px solid darkblue;
+}
+
+.maincontentContainer{
+    border:1px solid purple;
+}
+
+.sidebarContainer{
+    border: 1px solid orange;
+}
+
+.videomainContainer{
+    border: 1px solid indianred;
+}
